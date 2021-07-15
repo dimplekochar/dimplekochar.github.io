@@ -1,0 +1,179 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<ol>
+  
+<li><p><strong> Power Amplifier Design </strong>- Solid State Microwave Devices [Jan '19 - Apr '19] <br /> 
+  <em>Advisor: Prof. Jayanta Mukherjee, EE, IITB</em> <br /> 
+
+  
+   Fabricated a power amplifier on FR4 substrate of gain 2.5 dB at 520 MHz with S<sub>11</sub> & S<sub>12</sub> values of -18 dB & -35 dB. 
+ Constructed matching networks for the given amplifier IC AFIC901N with appropriate bias tees
+at source & load, considering gain & stability of the circuit, using microstrip transmission lines.   
+  
+  <a href="https://dimplekochar.github.io/files/report614.pdf">[Report]</a>
+  <a href="https://github.com/dimplekochar/Power_Amplifier_Design">[files]</a></p>
+</li>
+
+<li><p><strong> 4 X 4 Butler Matrix Circuit </strong>- Microwave Integrated Circuits [Sep '19 - Nov '19] <br /> 
+  <em>Advisor: Prof. Jayanta Mukherjee, EE, IITB</em> <br />
+  
+     Fabricated on FR4 substrate using microstrip transmission lines and obtained equal power division and input port isolation.   
+     Constructed the circuit with 90 &#176 hybrids & phase delay lines using ideal T lines to equally divide
+power at the output ports for each of the 4 input ports at an operation frequency of 5.4 GHz.
+     Redesigned it using microstrip transmission lines, and obtained accurate results after EM simulation of the layout.
+  
+    <a href="https://dimplekochar.github.io/files/report611.pdf">[Report]</a>
+  <a href="https://github.com/dimplekochar/Butler_Matrix">[files]</a></p>
+</li>
+
+<li><p><strong>Layout and Back-extraction of 16 bit Brent Kung Adder</strong> - VLSI Design [Sep '19 - Nov '19] <br /> 
+  <em>Advisor: Prof. Dinesh Sharma, EE, IITB</em> <br /> 
+
+   Started from the schematic & layout of basic CMOS logic gates to build increasingly complex
+modules; combined them accordingly to obtain the layout of 16 bit Brent Kung adder in Cadence.
+ Passed the Design Rule Checking (DRC) & Layout Versus Schematic (LVS), and did Parasitic Extraction (PEX) of each module of adder & the final adder. 
+ Conducted post layout simulation tests and successfully obtained accurate adder functionality.
+  
+  <a href="https://dimplekochar.github.io/files/report671.pdf">[Report]</a>
+  <a href="https://github.com/dimplekochar/16_bit_BrentKung_Adder_Cadence">[files]</a></p>
+</li>
+<li>
+  <p><strong>Pipelined RISC Microprocessor</strong> - Microprocessors [Jul '18 - Nov '18] <br /> 
+  <em>Advisor: Prof.  Virendra Singh, EE, IITB</em> <br />
+    
+ Designed IITB-RISC, an 8-register, 16-bit computer system which follows the standard 6 stage pipelines
+(Instruction fetch, instruction decode, register read, execute, memory access, and write back) capable of executing 15 instructions
+  and equipped it with control flow, data forwarding, data dependency hazard detection
+  and hazard mitigation.
+ Implemented the design in VHDL, simulated it and tested it on a DE0-Nano FPGA board.
+  
+  <a href="https://github.com/dimplekochar/Pipelined_RISC_Microprocessor">[files]</a></p>
+</li>
+
+<li><p><strong>Dot-Product Accelerator & Processor in <a href="https://github.com/madhavPdesai/ahir">Aa</a></strong> - Algorithmic Digital System Design [Jul '19 - Nov '19] <br /> 
+  <em>Advisor: Prof.  Madhav Desai, EE, IITB</em> <br />
+    
+ Learnt Algorithm assembly (Aa), a control-flow description language developed by the advisor. 
+ Implemented an accelerator in Aa for parallel dot product of a data matrix with a kernel matrix.   
+   Coded and verified a processor with given ISA in Aa, converted it to VHDL using AHIR tools,
+and tested it on a Basys-3 FPGA using Xilinx Vivado and communicated with it using UART.   
+  
+  <a href="https://github.com/dimplekochar/789">[files]</a></p>
+</li>
+<li><p><strong>Music Genre Identification</strong> - Machine Learning [Feb '18 - May '18] <br /> 
+  <em>Advisor: Prof. Preethi Jyothi, CSE, IITB</em> <br /> 
+     
+ Perused literature to find that the timbre feature corresponding to the loudest parts of the song gives
+better clustering of audio samples and implemented Principal Component Analysis (PCA) to show it.
+ Utilized Bayesian Optimization for tuning of hyperparameters to compute posterior probability
+loss; utilized Gini Index for splitting at each node in Random Forests.
+ Achieved an accuracy of 56% and an F1 score of 50.65% using the Random Forest algorithm.
+     
+  <a href="https://dimplekochar.github.io/files/report419.pdf">[Report]</a>
+  <a href="https://github.com/dimplekochar/Music_Genre_Identification">[files]</a></p>
+</li>
+<li>
+<p><strong>Monitoring Honking Rate to reduce Noise Pollution </strong>- Electronic Design [Jan '19 - May '19] <br /> 
+  <em>Wadhwani Lab, EE, IITB</em> <br /> 
+
+ Built a device to count a specific vehicle’s honks by an amplitude-frequency threshold circuit amid all the traffic noise, 
+  which can be calibrated before for the specific vehicle's horn.
+ Transmitted this data to a server using ESP8266 wirelessly and provided for detection if the device is tampered with to hide honk count;
+  can be used to monitor honking rate of a driver by authorities and take action.
+  
+  <a href="https://dimplekochar.github.io/files/present344.pdf">[Presentation]</a>
+  <a href="https://dimplekochar.github.io/files/report344.pdf">[Report]</a></p>
+</li>
+<li>
+<p><strong>Heart Rate Variability (HRV) Analysis</strong>- Digital Signal Processing [Feb '19 - Mar '19] <br /> 
+   <em>Advisor: Prof. Vikram Gadre, EE, IITB</em> <br /> 
+
+ Stood among the top 5 teams in the Make in India presentation organised for Technical Education Quality Improvement Programme (TEQIP)-III.
+ Acquired, filtered, thresholded and interpolated the signal to obtain the HRV signal; extracted its power spectral density in MATLAB to make a model to predict
+  the risk of myocardial infraction, in a team of 3.
+   Presented to students and teachers of various tier 2 and 3 colleges across the country as part of TEQIP-KIT-2019
+workshop under the initiative of the Ministry of Human Resource Development (MHRD), Government of India.
+  
+  <a href="https://dimplekochar.github.io/files/present338.pdf">[Presentation]</a>
+  <a href="https://github.com/dimplekochar/Heart_Monitor">[files]</a></p>
+</li>
+<li>
+<p><strong>Touchless Gesture Recognition</strong> - Analog Circuits [Feb '18 - Apr '18] <br /> 
+  <em>Advisor: Prof. Siddharth Tallur, EE, IITB</em> <br /> 
+  
+ Part of a 2 member team that was awarded the best project among 70 teams.
+ Designed and implemented a touchless gesture audio volume controller, motion tracker (using an LED matrix) 
+  and a pattern lock by gesture detection using infrared emitters and sensors.  
+ Implemented the digital logic on an Altera CPLD by coding in VHDL on Altera Quartus software. 
+     
+  <a href="https://dimplekochar.github.io/files/present230.pdf">[Presentation]</a>
+  <a href="https://github.com/dimplekochar/Touchless_Gesture_Recognition/">[files]</a></p>
+</ol>
+</li>
+
+Other EE reports and projects:
+
+  <ul>
+  <li><p><strong>Multicycle Processor</strong> [Jul '18 - Nov '18)] <br /> 
+  <em>Guide: Prof. Virendra Singh, EE, IITB</em> <br /> 
+    Implemented a 16-bit computer system with 15 instructions in the Instruction Set Architecture in VHDL and optimized the architecture for 
+    performance using point-to-point communication infrastructure
+    <a href="https://github.com/dimplekochar/Multicycle_Processor">[files]</a></p>
+  </li>
+<li>
+  <p><strong>Simulations of Microelectronics</strong> [Jul '19 - Nov '19] <br /> 
+  <em>Guide: Prof. Swaroop Ganguly, EE, IITB</em> <br /> 
+    Solved Poisson equation using finite difference scheme and Newton Raphson to obtain electric field, charge, etc. for various device structures.
+    Used TCAD Sentaurus for sprocess simulations of implant and sdevice simulations for effect of various recombinations.
+  <a href="https://github.com/dimplekochar/MSL/">[files]</a></p>
+</li>
+<li>
+  <p><strong>MOS Simulations</strong> [Jan '19 - Apr '19] <br /> 
+  <em>Guide: Prof. Souvik Mahapatra, EE, IITB</em> <br /> 
+    Simulated substrate charge, band bending, CV curves, effect of interface traps while checking variation with thickness and doping density, and Pao Sah, Brews models 
+    using MATLAB
+    <a href="https://github.com/dimplekochar/Physics_of_Transistors">[files]</a></p>
+</li>
+<li>
+  <p><strong>Solving the generalized Sylvester’s equation AXB + CXD = E</strong> [Mar '20 - May '20] <br /> 
+  <em>Guide: Prof. Virendra Sule, EE, IITB</em> <br /> 
+  Studied various methods in literature and its implementation complexity in today's software. 
+  <a href="https://dimplekochar.github.io/files/report613.pdf">[Report]</a></p>
+  </li>
+<li>
+  <p><strong>SAT solver</strong> [Oct '19 - Nov '19] <br /> 
+  <em>Guide: Prof. Virendra Singh, EE, IITB</em> <br /> 
+    On entering clauses in product of sum form, outputs whether SAT or UNSAT; if SAT provides a solution
+  <a href="https://github.com/dimplekochar/SAT_Solver/">[files]</a></p>
+  </li>
+<li>
+  <p><strong>Filter Design</strong> [Jan '19 - Apr '19] <br /> 
+  <em>Guide: Prof. V. M. Gadre, EE, IITB</em> <br /> 
+   Built discrete time IIR band pass and band stop filters using Chebyshev and Butterworth approximations respectively with the specifications stated and 
+    constructed corresponding FIR filters with the same specifications with Kaiser window using MATLAB
+    <a href="https://dimplekochar.github.io/files/report338.pdf">[Report]</a></p>
+</li>
+<li>
+   <p><strong>Reaction Game</strong> [Mar '18 - May '18] <br /> 
+  <em>Guide: Prof. Madhav Desai, EE, IITB</em> <br /> 
+    Coded various components like a Linear-Feedback Shift Register (LFSR), Finite State Machines (FSMs)
+and an LCD control module for display using Register Transfer Level (RTL) abstractiona and implemented it on the Altera MAX3000A Complex Programmable Logic Device (CPLD) using Quartus
+     <a href="https://github.com/dimplekochar/Reaction_Game">[files]</a></p>
+ </li>
+</ul>
+
+
+
+
