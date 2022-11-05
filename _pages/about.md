@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) Department at Massachusetts Institute of Technology (MIT). I am fortunate to have [Prof. Anantha Chandrakasan](https://www.eecs.mit.edu/people/anantha-chandrakasan/) as my PhD advisor. My research interests lie broadly in the areas of energy efficient circuits and systems for ML applications, and computer architecture.
+I am a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) at Massachusetts Institute of Technology (MIT). I am fortunate to have [Prof. Anantha Chandrakasan](https://www.eecs.mit.edu/people/anantha-chandrakasan/) as my PhD advisor. My research interests lie broadly in the areas of energy efficient circuits and systems for ML applications, and computer architecture.
 
 I graduated with a B.Tech and an M.Tech in Electrical Engineering from IIT Bombay where I was awarded the Sharad Maloo Memorial Gold Medal for being the most outstanding student in terms of extra-curricular activities along with academic performance. 
 
