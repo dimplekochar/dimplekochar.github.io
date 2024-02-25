@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student at the department of Electrical Engineering and Computer Science (EECS) at Massachusetts Institute of Technology (MIT). I am fortunate to have [Prof. Anantha Chandrakasan](https://www.eecs.mit.edu/people/anantha-chandrakasan/) as my PhD advisor. My research interests lie broadly in the areas of energy efficient circuits for AI and AI for circuits. I believe that in creating chips for ML, we are enabling ML to support creating of the next generation of chips.
+I am a PhD student at the department of Electrical Engineering and Computer Science (EECS) at Massachusetts Institute of Technology (MIT). I am fortunate to have [Prof. Anantha Chandrakasan](https://www.eecs.mit.edu/people/anantha-chandrakasan/) as my PhD advisor. My research interests lie broadly in the areas of energy efficient circuits for AI and AI for circuits. I am currently working on the problem of technology migration. I believe that in creating chips for ML, ML will support the creation of the next generation of chips.
 
 I graduated with a B.Tech and an M.Tech in Electrical Engineering from IIT Bombay where I was awarded the Sharad Maloo Memorial Gold Medal for being the most outstanding student in terms of extra-curricular activities along with academic performance. 
 
