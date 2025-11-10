@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am on the job market, looking for full-time industry research positions in Summer 2026. If you see a good fit and are interested in hiring,  please reach out via email.**
+**I am on the job market, looking for full-time industry research positions in Summer 2026. If you see a good fit and are interested in hiring, please reach out via email.**
 
 I am a final year PhD student in the Electrical Engineering and Computer Science (EECS) department at Massachusetts Institute of Technology (MIT). I am fortunate to have Prof. Anantha Chandrakasan and Prof. Hae-Seung Lee as my PhD advisors. I have been awarded the Grass Instrument Company Fellowship and the MathWorks Engineering Fellowship.
 
