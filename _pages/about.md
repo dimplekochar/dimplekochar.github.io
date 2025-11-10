@@ -44,7 +44,7 @@ In Summer 2025, I interned at NVIDIA Research as part of the ASIC and VLSI Resea
 <tr><td><b>Dec 2023:</b></td><td>Second tape-out in TSMC 28nm!</td></tr>
 <tr><td><b>Oct 2023:</b></td><td>Selected as Mentor for Graduate Application Assistance Program, EECS, MIT</td></tr>
 <tr><td><b>May 2023:</b></td><td>Summer Internship at Qualcomm, in the Memory-IP group on reliable in-memory computing</td></tr>
-<tr><td><b>Sep 2022:</b></td><td>First tape-out in 14nm!</a></td></tr>
+<tr><td><b>Sep 2022:</b></td><td>First tape-out in 14nm!</td></tr>
 <tr><td><b>Dec 2021:</b></td><td>Joined the Energy-Efficient Circuits and Systems group, advised by Prof. Anantha Chandrakasan</td></tr>
 <tr><td><b>Sep 2021:</b></td><td>Joined the PhD program at EECS, MIT; Awarded Grass Instrument Company Fellowship</td></tr>
 <tr><td><b>Aug 2021:</b></td><td>Awarded the Sharad Maloo Memorial Gold Medal for being the second-most outstanding student in terms of general proficiency, excellence in academic performance, extracurricular activities, and social services among all B.Tech/Dual Degree graduating students (1 in 999) at the 59th Convocation of IIT Bombay</td></tr>
@@ -53,9 +53,9 @@ In Summer 2025, I interned at NVIDIA Research as part of the ASIC and VLSI Resea
 <tr><td><b>Apr 2021:</b></td><td>Awarded the ‘Travel Grants for UG students by C'1992 and C'1998’ for IEEE ISCAS 2021</td></tr>
 <tr><td><b>Mar 2021:</b></td><td>Presented our work "Modeling of HKMG Stack Process Impact on Gate Leakage, SILC and PBTI" at IEEE International Reliability Physics Symposium (IRPS) [<a href="https://ieeexplore.ieee.org/abstract/document/9405154">paper</a>]</td></tr>
 <tr><td><b>Jan 2021:</b></td><td>Selected as TA for Control Systems (EE302)</td></tr>
-<tr><td><b>Dec 2020:</b></td><td>Our work "A physical model for bulk gate insulator trap generation during bias-temperature stress in differently processed p-channel FETs" accepted to IEEE Transactions on Electron Devices[<a href="https://ieeexplore.ieee.org/abstract/document/9316806">paper</a>]</td></tr>
+<tr><td><b>Dec 2020:</b></td><td>Our work "A physical model for bulk gate insulator trap generation during bias-temperature stress in differently processed p-channel FETs" accepted to IEEE Transactions on Electron Devices [<a href="https://ieeexplore.ieee.org/abstract/document/9316806">paper</a>]</td></tr>
 <tr><td><b>Jul 2020:</b></td><td>Selected as TA for Probability and Random Processes (EE325)</td></tr>
-<tr><td><b>May 2020:</b></td><td>Summer Research in developing SILC (Stress Induced Leakage Current) framework
+<tr><td><b>May 2020:</b></td><td>Summer Research in developing Stress Induced Leakage Current (SILC) framework
 <tr><td><b>May 2019:</b></td><td>Summer Internship at Kavli Institute of Nanoscience, TU Delft on "Dipole-Exchange Spin Waves in Thin Ferromagnetic Films"
 <tr><td><b>Apr 2019:</b></td><td>Awarded IITB Institute Journalism Special Mention Award
 <tr><td><b>Mar 2019:</b></td><td>Stood in the top 5 teams in the Make in India presentation organised for TEQIP-III for heart rate variability analysis by processing the ECG signal & PSD to predict risk of myocardial infarction</td></tr>
@@ -67,8 +67,8 @@ In Summer 2025, I interned at NVIDIA Research as part of the ASIC and VLSI Resea
 <tr><td><b>Feb 2018:</b></td><td>Selected as TA for Differential Equations (MA108)</td></tr>
 <tr><td><b>Jul 2017:</b></td><td>Selected as TA for Quantum Mechanics (PH107)</td></tr>
 <tr><td><b>Mar 2017:</b></td><td>Selected as Convenor for IIT-BBC 2017-18 (IIT Bombay Broadcasting Channel), official student multimedia body</td></tr>
-<tr><td><b>Nov 2016:</b></td><td>First Runner up in Segreta, the biggest Online Crypt Hunt, Techfest '16 among 6,000+ participants</a></td></tr> 
-<tr><td><b>Oct 2016:</b></td><td>Awarded Desai-Sethi Scholarship (Rs. 150K/year for 4 years awarded to top 5 girls admitted to IIT Bombay)</a></td></tr>
+<tr><td><b>Nov 2016:</b></td><td>First Runner up in Segreta, the biggest Online Crypt Hunt, Techfest '16 among 6,000+ participants</td></tr> 
+<tr><td><b>Oct 2016:</b></td><td>Awarded Desai-Sethi Scholarship (Rs. 150K/year for 4 years awarded to top 5 girls admitted to IIT Bombay)</td></tr>
 <tr><td><b>Jul 2016:</b></td><td>Joined IIT Bombay</td></tr>
 <tr><td><b>Jun 2016:</b></td><td>Achieved All India Rank 102 in JEE Main and All India Rank 295 in JEE Advanced out of 1.2 and 0.2 million candidates respectively; stood first in both in the state of Maharashtra among girls</td></tr>
 
