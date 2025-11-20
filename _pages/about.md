@@ -29,9 +29,10 @@ In Summer 2025, I interned at NVIDIA Research as part of the ASIC and VLSI Resea
 <tr><td><b>Jul 2025:</b></td><td> Our work "Efficient Circuit Performance Prediction Using Machine Learning: From Schematic to Layout and Silicon Measurement with Minimal Data Input" accepted to IEEE Transactions on Circuits and Systems I: Regular Papers [<a href="https://ieeexplore.ieee.org/abstract/document/11114348">paper</a>]</td></tr>
 <tr><td><b>Jun 2025:</b></td><td>Our work considered as a candidate for best paper! [<a href="https://ieeexplore.ieee.org/abstract/document/11106097">paper</a>]</td></tr>
 <tr><td><b>Jun 2025:</b></td><td>Presented our work "LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits" at  IEEE International Conference on LLM-Aided Design (ICLAD) [<a href="https://ieeexplore.ieee.org/abstract/document/11106097">paper</a>]</td></tr>
-<tr><td><b>Jun 2025:</b></td><td>Filed a patent application with IBM for ``Design Space Reduction and Optimization for Analog Circuits,"  U.S. App. No. 19/247,091, 2025. </td></tr>
+<tr><td><b>Jun 2025:</b></td><td>Filed a patent application with IBM for "Design Space Reduction and Optimization for Analog Circuits,"  U.S. App. No. 19/247,091, 2025. </td></tr>
 <tr><td><b>Jun 2025:</b></td><td>Presented our work "LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits" at the WIP poster session at Design Automation Conference (DAC) [<a href="https://arxiv.org/pdf/2411.12930">paper</a>]</td></tr>
 <tr><td><b>Jun 2025:</b></td><td>Summer Internship at NVIDIA Research, in the ASIC and VLSI Research group on using LLMs for RTL Verification
+<tr><td><b>May 2025:</b></td><td>Selected as a DAC Young Fellow 2025</td></tr>
 <tr><td><b>May 2025:</b></td><td>Completed Minor in Finance</td></tr>
 <tr><td><b>May 2025:</b></td><td>Awarded MathWorks Engineering Fellowship for 2025-26</td></tr>
 <tr><td><b>May 2025:</b></td><td>Submitted my PhD thesis proposal on Artificial Intelligence-Driven Automation for Analog Circuit Design</td></tr>
@@ -40,7 +41,7 @@ In Summer 2025, I interned at NVIDIA Research as part of the ASIC and VLSI Resea
 <tr><td><b>Feb 2025:</b></td><td>Completed my RQE (Research Qualifying Examination)</td></tr>
 <tr><td><b>Jan 2025:</b></td><td>Presented our work "A 0.75mm2 407μW Real-Time Speech Audio Denoiser with Quantized Cascaded Redundant Convolutional Encoder-Decoder for Wearable IoT Devices" at International Conference on VLSI Design and International Conference on Embedded Systems (VLSID) [<a href="https://ieeexplore.ieee.org/abstract/document/10900724">paper</a>]</td></tr>
 <tr><td><b>Feb 2024:</b></td><td>Selected as TA for 6.6000 (6.775), CMOS Analog and Mixed-Signal Circuit Design</td></tr>
-<tr><td><b>Jan 2024:</b></td><td>Filed a patent application for work done at Qualcomm, ``Compute-in-Memory with Current Transition Detection,"  U.S. App. No. 18/403,010, 2024. [<a href="https://patents.google.com/patent/US20250218475A1/">Patent app.</a>]</td></tr>
+<tr><td><b>Jan 2024:</b></td><td>Filed a patent application for work done at Qualcomm, "Compute-in-Memory with Current Transition Detection,"  U.S. App. No. 18/403,010, 2024. [<a href="https://patents.google.com/patent/US20250218475A1/">Patent app.</a>]</td></tr>
 <tr><td><b>Dec 2023:</b></td><td>Second tape-out in TSMC 28nm!</td></tr>
 <tr><td><b>Oct 2023:</b></td><td>Selected as Mentor for Graduate Application Assistance Program, EECS, MIT</td></tr>
 <tr><td><b>May 2023:</b></td><td>Summer Internship at Qualcomm, in the Memory-IP group on reliable in-memory computing</td></tr>
