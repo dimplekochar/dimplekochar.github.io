@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 {% include base_path %}
-<a href="https://dimplekochar.github.io/files/resume.pdf">Resume</a>
+<a href="https://dimplekochar.github.io/files/cv_dimple-kochar.pdf">CV</a>
 <br> <br> 
 
  
